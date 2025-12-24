@@ -1,4 +1,4 @@
-# MiniKuma - Uptime kuma status page CSS
+# Mini Kuma - Uptime kuma minimal status page CSS
 Give your Uptime Kuma status page a minimal look with custom CSS only
 
 <h3 align="center">MiniKuma</h3>
