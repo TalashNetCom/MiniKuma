@@ -41,3 +41,7 @@ Give your Uptime Kuma status page a minimal look with custom CSS only
 
 You can tweak MiniKuma by editing the variables within the `:root {}` block inside the CSS file.
 
+## Contributing
+
+You can contribute to improving this project.
+Either by fork and create a pull-request or by sending it with a issue. I will accept.
